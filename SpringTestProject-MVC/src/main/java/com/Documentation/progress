@@ -1,0 +1,9 @@
+1. Doing and general
+  ------------------------
+  only servlet can be called from Ajax
+  
+
+2. Need to be done next
+   -----------------------
+how to catch an exception or error in ajax
+thrown specific exception from servlet
